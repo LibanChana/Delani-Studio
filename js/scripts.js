@@ -34,5 +34,4 @@ $(document).ready(function() {
                 " Feel free to reach out to us anytime. Click Ok to continue to the next page.");
         }
     });
-
 });
